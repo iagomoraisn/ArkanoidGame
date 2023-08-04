@@ -34,7 +34,7 @@ function setGameWin(view: CanvasView) {
 
 function gameLoop(
     view: CanvasView,
-    bricks: Brick[],
+    bricks: Brick[]
     //paddle: Paddle,
     //ball: Ball
 ) {
